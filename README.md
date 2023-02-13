@@ -8,7 +8,7 @@ This tool is built using the Gradio library and utilizes the `transformers` libr
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/Reviews-Sentiment-Analysis_App) To View This App Online!
 
-![Image](edit)
+![Image](https://github.com/Kaludii/Reviews-Sentiment-Analysis/blob/main/images/Sentiment.png?raw=true)
 
 ## Model
 
